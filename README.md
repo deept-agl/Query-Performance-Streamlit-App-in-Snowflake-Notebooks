@@ -17,8 +17,19 @@ It pulls data from the `ACCOUNT_USAGE.QUERY_HISTORY` table and shows visual insi
   - Raw data and summary stats
 
 ---
+## Here’s a quick look at the app in action:
+
+
+![Interactive Query Controls](https://github.com/deept-agl/Query-Performance-Streamlit-App-in-Snowflake-Notebooks/blob/main/interactive%20output%20controls.png)
+
+## How the final plots look like:
+
+
+![Plots](https://github.com/deept-agl/Query-Performance-Streamlit-App-in-Snowflake-Notebooks/blob/main/Performance%20plots.png)
 
 ## ▶️ How to Run
+
+---
 
 Just run the code inside a **Snowflake Notebook** with Streamlit imported.
 
